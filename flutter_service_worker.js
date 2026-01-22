@@ -27,7 +27,7 @@ const RESOURCES = {"assets/asset/bg_android.png": "223ef614d750eebb9553d90888259
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5742c820fffb8f1570a08bb40bf82e33",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "2af37ef10cdc1b9c1db4775c7fa6d2fd",
+"flutter_bootstrap.js": "8c505e1f095ce3a97967b63d56019c70",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
